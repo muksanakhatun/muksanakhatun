@@ -1,7 +1,4 @@
-
-
-## Hello World! 🌎 
-## This is Muksana Khatun!
+## Hello World! 🌎  This is Muksana Khatun!
 #### Data Analyst |Business Analyst |Environmental Analyst | Healthcare Analyst
 #### *Currently looking for Data Analyst Roles!*
 - Data analysis and research enthusiast.
