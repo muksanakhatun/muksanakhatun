@@ -1,10 +1,16 @@
 
 
 ## Hello World! 🌎 
+## This is Muksana Khatun!
+#### Data Analyst |Business Analyst |Environmental Analyst | Healthcare Analyst
+#### *Currently looking for Data Analyst Roles!*
+- Data analysis and research enthusiast.
+- A final year student at Bangladesh University Of Professionals 
 
-I am a Data Analyst, who is passionate about creating **Dashboard** and **finding meaningfull insights from data** from different data sources. 👨🏻‍💻
+As Data Analyst, I am passionate about creating **Dashboard** and **finding meaningfull insights from data** from different data sources. 👨🏻‍💻
 
-I have a B.Sc in Environmental science and I love working with multi-disciplinary teams to create innovative technologies for learners from all ages and backgrounds. 
+I love working with multi-disciplinary teams to create innovative technologies for learners from all ages and backgrounds. 
+
 
 Some languages/technologies I enjoy working with **Excel, Tableau, powerbi,SQL and of course Python!** :)  
 
