@@ -5,7 +5,7 @@
 #### Data Analyst |Business Analyst |Environmental Analyst | Healthcare Analyst
 #### *Currently looking for Data Analyst Roles!*
 - Data analysis and research enthusiast.
-- A final year student at Bangladesh University Of Professionals 
+- A final year student at Bangladesh University Of Professionals. 
 
 As Data Analyst, I am passionate about creating **Dashboard** and **finding meaningfull insights from data** from different data sources. 👨🏻‍💻
 
