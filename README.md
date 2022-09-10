@@ -9,11 +9,14 @@ I have a B.Sc in Environmental science and I love working with multi-disciplinar
 Some languages/technologies I enjoy working with **Excel, Tableau, powerbi,SQL and of course Python!** :)  
 
 
+
+
+
+
+
 ## Let's Connect! 🤝
 
-- My home: <a href="https://www.linkedin.com/in/muksana/">LinkedIn</a> 🌐
 
-<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/muksana/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
